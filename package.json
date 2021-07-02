@@ -11,6 +11,7 @@
     "type": "git",
     "url": "https://github.com/LofWalter/react-native-tooltip.git"
   },
+  "homepage": "https://github.com/LofWalter/react-native-tooltip",
   "keywords": [
     "react",
     "react-native",
